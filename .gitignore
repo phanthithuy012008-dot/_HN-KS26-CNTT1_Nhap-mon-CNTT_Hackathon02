@@ -1,0 +1,2 @@
+.env
+Ý nghĩa: Giúp Git bỏ qua file .env, tránh đưa thông tin bí mật lên GitHub.
