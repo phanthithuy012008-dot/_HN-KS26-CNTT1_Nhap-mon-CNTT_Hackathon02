@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:**Lê Qang Hào 
 - **Lớp:**CNTT1
-- **Link repository:**
+- **Link repository:**https://github.com/phanthithuy012008-dot/_HN-KS26-CNTT1_Nhap-mon-CNTT_Hackathon02
 - **Hệ điều hành (Windows/macOS):**Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
@@ -150,8 +150,7 @@ Hoan thanh!
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
-| 1 | 
-file:///C:/Users/lequanghao/Downloads/starter-kit/starter-kit/thue-do-cam-trai-website/web/images/logo.png  | network | Sửa đường dẫn logo.png thành logo-campgo.png |
+| 1 | file:///C:/Users/lequanghao/Downloads/starter-kit/starter-kit/thue-do-cam-trai-website/web/images/logo.png  | network | Sửa đường dẫn logo.png thành logo-campgo.png |
 | 2 | file:///C:/Users/lequanghao/Downloads/starter-kit/starter-kit/thue-do-cam-trai-website/web/images/logo.png | console | Kiểm tra file app.js và xử lý lỗi theo thông báo |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
